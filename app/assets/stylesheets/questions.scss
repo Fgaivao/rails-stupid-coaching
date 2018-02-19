@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  padding: 20px
+}
+
+h4{
+  text-align: center;
+  padding-top: 10px
+}
+
+form{
+  text-align: center;
+}
+
+.btn{
+  height: 35px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: blue;
+  font-style: white;
+}
+.btn:hover{
+  border: 2px solid blue;
+  font-style: blue;
+  background-color:white;
+}
+.you{
+  border-left: 5px solid gray
+}
+.coach{
+  border-left: 5px solid gray
+}
+
+
+
+
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
